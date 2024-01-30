@@ -13,3 +13,8 @@
 ### Test Heading 6 ###
 New line - let's see how this works. 
 What does this new line look like?
+
+First Header | Second Header
+-------------|--------------
+Content Cell | Content Cell
+Content Cell | :joy: \| :sob:

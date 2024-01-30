@@ -47,4 +47,5 @@ Content Cell | :joy: \| :sob:
     <p> Soup
 </details>
   - - - -
+
 <kbd>⇧↑↓</kbd>

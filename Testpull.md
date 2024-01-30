@@ -43,6 +43,6 @@ Content Cell | :joy: \| :sob:
 ### Test Heading 9 ###
 <details>
     <summary>Title 1</summary>
-    <p> + Sick
-    <p> + Soup
+    <p> Sick
+    <p> Soup
 </details>

@@ -30,7 +30,7 @@ Content Cell | :joy: \| :sob:
     2. Other sub number
 2. Second Number
 
-- [] Billionaire
+- [ ] Billionaire
 - [x] Broke :neutral_face:
 
 > Block Quote

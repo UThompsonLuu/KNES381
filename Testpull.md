@@ -30,11 +30,12 @@ Content Cell | :joy: \| :sob:
     2. Other sub number
 2. Second Number
 
-- [] Billionaire
+- [ ] Billionaire
 - [x] Broke :neutral_face:
 
 > Block Quote
 >> "Silly Lad Eats Grapes"
+<<<<<<< HEAD
 
 ### Test Heading 8 ###
 ![picture alt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fnerd-emoji&psig=AOvVaw1trEbjNMX_4SxygFCq-KdM&ust=1706727396637000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjlxpPlhYQDFQAAAAAdAAAAABAE "Me rn")
@@ -46,3 +47,5 @@ Content Cell | :joy: \| :sob:
     <p> + Soup
 </details>
 
+=======
+>>>>>>> 03d257e5fbaf4e68cdb2a16c00e9aa35fea1333a

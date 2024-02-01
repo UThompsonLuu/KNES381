@@ -8,7 +8,7 @@
 
 Text | Picture
 ------- | -------
-This is text | ![Cool Tiger](Pictures/Tiger.jpg)
+This is text.  Lions have great V&#775;O<sub>2</sub> | ![Cool Tiger](Pictures/Tiger.jpg)
 
 <h2> New header </h2>
 

@@ -5,9 +5,7 @@
 </head>
 <body>
 
-<center>
-  <h1>This is a Heading</h1>
-</center>
+<div align="center">This is a Heading</div>
 
 <p>This is a paragraph.</p>
 

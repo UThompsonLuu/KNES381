@@ -13,7 +13,7 @@ This is text | ![Cool Tiger](Pictures/Tiger.jpg)
 
 <h2> New header </h2>
 
-<span style="color= red;"> This text is red </span>
+This is <span style="color: red;">red</span> text.
   
 </body>
 </html>

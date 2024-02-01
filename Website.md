@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<div align="center">This is a Heading</div>
+<center> KNES381 Website </center>
 
 <p>This is a paragraph.</p>
 

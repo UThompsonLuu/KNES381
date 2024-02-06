@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-</head>
 <body>
 
 <h1 align="center"> Website Title </h1>

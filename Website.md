@@ -3,9 +3,16 @@
 
 <h1 align="center"> Website Title </h1>
 
-Text | Picture
-------- | -------
-This is text.  Lions have great V&#775;O<sub>2</sub> | ![Cool Tiger](Pictures/Tiger.jpg)
+<table>
+  <tr>
+    <th>Text</th>
+    <th>Picture</th>
+  </tr>
+  <tr>
+    <td>This is text. Lions have great V&#775;O<sub>2</sub></td>
+    <td><img src="Pictures/Tiger.jpg" alt="Cool Tiger"></td>
+  </tr>
+</table>
 
 <h2> New header </h2>
 

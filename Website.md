@@ -16,7 +16,7 @@
 
 <h2> New header </h2>
 
-This is <span style="color: red;">red</span> text. Find a link to the tiger [here](Pictures/Tiger.jpg)
+This is <span style="color: red;">red</span> text. Find a link to the tiger <a href="Pictures/Tiger.jpg">here</a>
   
 </body>
 </html>

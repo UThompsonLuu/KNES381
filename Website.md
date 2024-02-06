@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -10,7 +9,7 @@ This is text.  Lions have great V&#775;O<sub>2</sub> | ![Cool Tiger](Pictures/Ti
 
 <h2> New header </h2>
 
-This is <span style="color: red;">red</span> text.
+This is <span style="color: red;">red</span> text. Find a link to the tiger [here](Pictures/Tiger.jpg)
   
 </body>
 </html>
